@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="EmailClient.1">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/lib/javadocs1" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/demo1" />
+      <root url="file://$PROJECT_DIR$/lib/client1" />
+      <root url="file://$PROJECT_DIR$/lib/logging1" />
+      <root url="file://$PROJECT_DIR$/lib/outlook1" />
+      <root url="file://$PROJECT_DIR$/lib/servlet1" />
+      <root url="file://$PROJECT_DIR$/lib/classes1" />
+      <root url="file://$PROJECT_DIR$/lib/taglib1" />
+    </SOURCES>
+  </library>
+</component>
